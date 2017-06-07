@@ -1,0 +1,483 @@
+TARGET,OEXP,POLARITY
+los desayunos,si bajas 20 mins después de que se sirva no te queda ni leche !!,StrongNegative
+,desagradable,Negative
+,lleno de chinches,Negative
+,Sucio,Negative
+nada,queje,Negative
+nada,no hicieron,Negative
+al Senator Gran Via 21,vamos,Positive
+la situación de este hotel,ideal para poder moverte por el centro de Madrid sin tener que coger el coche,StrongPositive
+su personal,siempre tan amable,StrongPositive
+su personal,servicial,Positive
+este hotel,encanta,StrongPositive
+sus habitaciones,encanta,StrongPositive
+su ubicación,encanta,StrongPositive
+El servicio de habitaciones,muy malo,StrongNegative
+,Deja mucho que desear para sus estrellas,StrongNegative
+recepción,regular,Negative
+la camarera de por las noches,servicial,Positive
+la camarera de por las noches,lo mejor del hotel,StrongPositive
+la camarera de por las noches,un 10 para ella,StrongPositive
+la camarera de por las noches,muy atenta,StrongPositive
+la camarera de por las noches,Lo mejor,Positive
+el hotel,decepciono bastante,Negative
+la cama,bien,Positive
+duomo,buen situado,Positive
+duomo,lo unico destacable,Negative
+duomo,cerca,Positive
+habitaciones,pequeñas,Negative
+servicio,justito,Negative
+desayuno,pobre,Negative
+una reforma,pide a gritos,StrongNegative
+,de no volver,Negative
+,Para no repetir,Negative
+un hotel,antiguo,Negative
+aqui,seguro que vuelvo,Positive
+todo,ningun problema,Positive
+todo,enseguida se areglo,Positive
+la habitacion,tubimos un problema,Negative
+disculpas,pidieron,Positive
+hotel en Madrid,Bonito,Positive
+la amabilidad,sorprendio,Positive
+hotel en madrid,bonito,Positive
+alojarse en ellos,todo un lujo,StrongPositive
+alojarse en ellos,todo son atenciones,StrongPositive
+las habitaciones,son comodisimas,StrongPositive
+cafetera,con,Positive
+plancha,con,Positive
+todo lo que uno pueda necesitar,con,Positive
+hotel en Madrid,El mejor,StrongPositive
+,son marabillosos,StrongPositive
+las sábanas,nuevas,Positive
+las sábanas,blancas,Positive
+las sábanas,totalmente limpias,StrongPositive
+el mobiliario,muy modernos,StrongPositive
+Los electrodomésticos,muy modernos,StrongPositive
+precio,muy bien,StrongPositive
+precio,muy moderno,StrongPositive
+algo,esperaba peor,Positive
+persianas,eléctricas,Positive
+cocina,ha encantado,StrongPositive
+cocina,incluída,Positive
+,un poco pequeño,Negative
+calidad / precico,Buena,Positive
+este hotel,ha gustado,Positive
+,repetiré sin dudarlo,StrongPositive
+,bastante bien,Positive
+las habitaciones,se duerme bien,Positive
+las habitaciones,no estan mal,Positive
+trato con los clientes,mui buen,StrongPositive
+,atienden bien.,Positive
+sitio,Buen,Positive
+comida,no es que me gustara mucho,Negative
+comida,no estaba mal tampoco,Positive
+la parada de autobús,delante del complejo,Positive
+oferta,conseguimos,Positive
+oferta,buena,Positive
+un baño,totalmente equipada,StrongPositive
+un comedor,totalmente equipada,StrongPositive
+una cocina,totalmente equipada,StrongPositive
+2 habitaciones,totalmente equipada,StrongPositive
+,Volvería a alojarme,Positive
+el autobús,da un poco de vuelta,Negative
+el centro de Pisa,unos 10 · 15 minutos,Positive
+Relación calidad · precio,muy buena,StrongPositive
+su precio,Lo mejor,Positive
+relacion calidad precio,negocios.Buena,Positive
+,bien,Positive
+,Madrid.Bien comunicado,Positive
+caja fuerte,gratis,Positive
+minibar,gratis,Positive
+centro,muy bien situado,Positive
+Hotel,muy bien situado,Positive
+,Antiguo,Negative
+la estacion de tren,muy bien ubicado,StrongPositive
+la estacion de tren,muy antiguo,StrongNegative
+la estacion de tren,predispuestos.Es,Positive
+la estacion de tren,a una cuadra,Positive
+los conserjes,simpaticos,Positive
+los conserjes,bien,Positive
+los conserjes,Bien atendido,Positive
+la cena de bienvenida,lo mejor,Positive
+Esa,la única pega,Negative
+hotel,nuevo,Positive
+lo,cómodo,Positive
+todo,cuidado,Positive
+todo,muy limpio,StrongPositive
+sofá cama,solo tienen,Negative
+todo,muy bien,StrongPositive
+opción,buena,Positive
+estudio,pequeñito,Negative
+un centro comercial,tienes,Positive
+parada de bus Disney,gratuito,Positive
+parada de bus Disney,Tiene,Positive
+la cocina,La pega,Negative
+El desayuno,por el precio bastante bien,Positive
+El desayuno,algo simple,Negative
+Las habitaciones,muy bien,StrongPositive
+centro de florencia,en pleno,Positive
+duomo,a 30 segundos andando,Positive
+la situacion,ideal,StrongPositive
+la estacion central de florencia,cerca,Positive
+calidad / precio,Muy buena,StrongPositive
+ubicación,Excelente,StrongPositive
+ubicación,en el centro Madrid,Positive
+El tamaño de la habitación y el baño,grande,Positive
+El tamaño de la habitación y el baño,limpia,Positive
+hotel,buen,Positive
+excesivo ruido dentro de la habitación,no había,Positive
+"la parada de Metro de la Línea 5 , Gran Vía",pegado,Positive
+la Plaza del Sol,a 5 minutos andando,Positive
+la cama,confortable,Positive
+pequeña cafetera,gratuitos,Positive
+El minibar,gratuitos,Positive
+hotel,Buen,Positive
+hotel,centrico,Positive
+la conexión WIFI,al igual que,Positive
+la caja fuerte,al igual que,Positive
+este hotel,recomendable,Positive
+este hotel,del todo correcto,Positive
+Hotel,necesita una reforma urgente,Negative
+Hotel,muy bien ubicado,StrongPositive
+el hotel,bien en general,Positive
+El desayuno,bastante pobre,Negative
+Hotel,centrico,Positive
+Hotel,viejo,Negative
+el entorno,no es el mas adecuado,Negative
+familia.El barrio,tranquilo,Positive
+el desayuno,abundante,Positive
+el desayuno,variado,Positive
+,Muy recomendable,StrongPositive
+estacion de metro,muy cerca,StrongPositive
+Camp Nou,muy cerca,StrongPositive
+restaurantes asequibles,tiene cerca,Positive
+supermercados,tiene cerca,Positive
+Estancia familiar,muy buena,StrongPositive
+5 dias,muy buenos,StrongPositive
+el hotel,gustado muchisimo,StrongPositive
+un masaje,relajante,Positive
+la tranquilidad,tiene,Positive
+el < SPA,lo mejor,Positive
+estancia,Buena,Positive
+,se descansa bien,Positive
+el personal de recepción,sin ningún interes en atender al cliente,Negative
+los servicios prestados,deja mucho que desear,Negative
+el trato recibido,pesimo,StrongNegative
+las comidas,sin variedad,Negative
+las comidas,pesimas,StrongNegative
+tema aparcamiento,inexistente en la zona,Negative
+el del hotel,cobrando 9 € diarios,Negative
+el del hotel,abusando,Negative
+,Lamentable,StrongNegative
+,no aguantamos más,Negative
+,fuimos,Negative
+,Problemas con el estado de la cama,Negative
+la impieza,inexistente,Negative
+la habitación,Destacar lo confortable,Positive
+recepción,fueron muy atentos,StrongPositive
+cadena radio / cd,tiene,Positive
+posibilidad de preparate café o te en la habitación,GRATIS,Positive
+mini · bar,GRATIS,Positive
+el LATE check out,facilitándonos,Positive
+,Muy recomendable,StrongPositive
+Una estancia,muy atentos,StrongPositive
+Una estancia,muy agradable,StrongPositive
+El hidromasaje de la azotea,no funciona bien,Negative
+muebles,necesitan un cambio,Negative
+demás,necesitan un cambio,Negative
+la tele,las van cambiando,Positive
+la tele,de culo,StrongNegative
+El wifi,tampoco funciona bien,Negative
+El SPA,no está,Positive
+El SPA,"si tienes la vip senator , tienes acceso gratuito una vez",Positive
+Personal,"muy , muy amable",StrongPositive
+situado,muy bien,StrongPositive
+las instalaciones,anticuadas,Negative
+,como vivir un sueño !!,StrongPositive
+el trato del Director,destaco,Positive
+limpieza,destaco,Positive
+jardines,destaco,Positive
+habitaciones,destaco,Positive
+las instalaciones,destaco,Positive
+la atención del personal,destaco,Positive
+la comida,destaco,Positive
+este hotel,Recomiendo al 100 %,StrongPositive
+,Es insuperable !!!,StrongPositive
+,Fantástici !,StrongPositive
+hotal,buenas palabras para describir,Positive
+personal,buenas palabras para describir,Positive
+,un lujo total,StrongPositive
+,fascinados,StrongPositive
+,muy pero que muy bien,StrongPositive
+hoteles en que he estado,ha sido uno de los mejores,StrongPositive
+hoteles en que he estado,muy bien,StrongPositive
+hotel,Muy buen,StrongPositive
+Las camas,se movían,Negative
+Las camas,hacían mucho ruido,Negative
+Las camas,malísimas,StrongNegative
+La animación,mala,Negative
+las almohadas,finas como el papel,Negative
+colchones,muy malos,StrongNegative
+La espera para entrar a cenar,muchísima cola,Negative
+La espera para entrar a cenar,mal,Negative
+La situación,muy buena respecto a la playa,StrongPositive
+La limpieza de la habitación,normalita,Negative
+la capacidad del restaurante,muy pequeña,StrongNegative
+la capacidad del restaurante,no quiero ni imaginar como estaría en pleno verano,Negative
+La comida,normalita,Negative
+El personal,muy amable,StrongPositive
+bidet,sin,Negative
+,Peor de lo que ofrecen,Negative
+El baño,muy anticuado,StrongNegative
+El desayuno,buffet,Positive
+El desayuno,espectacular,StrongPositive
+,100 % recomendable,StrongPositive
+,Repetiremos,Positive
+Habitaciones,cómodas,Positive
+Habitaciones,silenciosas,Positive
+trato,Muy buen,StrongPositive
+hotel,Muy buen,StrongPositive
+hotel,Buen,Positive
+,situado practicamente en el centro de Milan,Positive
+,un 7,Positive
+la estación de trenes Santa Maria Novella,cerca,Positive
+nada de maxima calidad,no hay,Negative
+nada de maxima calidad,esta bien.,Positive
+el desayuno,aceptable,Positive
+,Aceptable,Positive
+El hotel,"bien , por el precio que pagas",Positive
+ubicación,buena,Positive
+lo,recomiendo,Positive
+,Normal,Positive
+nada,que destacar,Negative
+,Para el precio que nos costo no estaba nada mal,Positive
+la localizacion,estupenda,StrongPositive
+el personal,educado,Positive
+el personal,encantador,StrongPositive
+las instalaciones,muy buenas,StrongPositive
+hotel,buen,Positive
+cuidado,estupendo,StrongPositive
+mantenimiento,estupendo,StrongPositive
+el desayuno buffet,fenomenal,StrongPositive
+Estancia,satisfactoria,Positive
+al estadio de futbol del barca,cercania,Positive
+las instalaciones,muy buenas,StrongPositive
+,la pasamos increible,StrongPositive
+,muy recomendado,StrongPositive
+varios lugares para salir,enconte,Positive
+destinos,cercanos al hotel,Positive
+hotel,Excelente,StrongPositive
+servicio,Muy buen,StrongPositive
+la ubicacion,perfecta,StrongPositive
+parking,no tiene,Negative
+ubicación,Excelente,StrongPositive
+parking proximo,a unos 300 m3tros del hotel,Negative
+,bastnte bien,Positive
+El buffet libre,bastante probre,Negative
+atencio,perfecto,StrongPositive
+El servicio,perfecto,StrongPositive
+la,perfecto,StrongPositive
+de los mas significativos,no es,Negative
+mucho por escoger,No habia,Negative
+un servicio,senzillo,Negative
+suficiente para todos,no habia,Negative
+una zona,muy tranquila,StrongPositive
+un hotel,pequeño,Negative
+un hotel,sin grandes lujos,Negative
+La ubicación,tan solo cinco estaciones de metro del centro,Positive
+La ubicación,excelente,StrongPositive
+caja fuerte,disponen gratuitamente,Positive
+minibar,disponen gratuitamente,Positive
+servicio de plancha,disponen gratuitamente,Positive
+La atención de todo el personal,excelente,StrongPositive
+Las habitaciones,muy completas,StrongPositive
+El servicio de desayuno,muy completo,StrongPositive
+bolleria,mucha variedad,StrongPositive
+zumos naturales,mucha variedad,StrongPositive
+Hotel,perfecto,StrongPositive
+El hotel,esta muy centrico,StrongPositive
+a todos los lugares centricos de Madrid,puedes ir desde alli andando,Positive
+Hotel,recomendable,Positive
+Hotel,muy céntrico,StrongPositive
+,Recomendable,Positive
+actividades para todas las edades,gran variedad,Positive
+,comodidad para desplazarte por todo el hotel,Positive
+el personal,muy amable,StrongPositive
+Todo,muy correcto,StrongPositive
+Todo,como esperábamos,Positive
+todo,tal y como esperabamos,Positive
+todo,correcto,Positive
+restaurantes tematicos,gran variedad,Positive
+limpieza,adecuado,Positive
+mantenimiento,adecuado,Positive
+Las afueras del hotel,muy buenas,StrongPositive
+unas vistas,muy buenas,StrongPositive
+Este hotel,gusto mucho,StrongPositive
+estas vacaciones,gustaron mucho,StrongPositive
+,agradó,Positive
+la comida,espectacular,StrongPositive
+la estancia,espectacular,StrongPositive
+el servicio que daban,espectacular,StrongPositive
+,bastante limpio,Positive
+El parquing,gratuito,Positive
+Las habitaciones,normalitas,Positive
+dormir,tocó con tapones,Negative
+su ubicación,idónea,StrongPositive
+El WIFI,no de buena calidad,Negative
+El WIFI,apenas llega a la habitación,Negative
+La piscina,descubierta,Positive
+Opción,barata,Positive
+El hotel,en medio del Strip,Positive
+una habitación,tocó que daba a un escenario,Negative
+la cuesta,no es nada pronunciada,Positive
+todo,muy bien,StrongPositive
+todo,limpio,Positive
+todo,muy tranquilo,StrongPositive
+todo lo necesario,Tiene,Positive
+Los menus del bar · restaurante,muy bien de precio,StrongPositive
+Los menus del bar · restaurante,muy buenos,StrongPositive
+la playa,a pie,Positive
+lo cual,se agradece,Positive
+accesos al centro de Calella de Palafrugell,excelentes,StrongPositive
+,Muy contentos,StrongPositive
+un camping,autentico,StrongPositive
+un camping,encantador,StrongPositive
+un camping,muy natural,StrongPositive
+animacion,No tiene,Positive
+la zona,pequeña,Negative
+un jacuzzi,tiene,Positive
+una sauna,tiene,Positive
+piscina exterior,Tiene,Positive
+solarium,Tiene,Positive
+Personal,muy agradable,StrongPositive
+desayuno,buen,Positive
+Plaza de España,media hora andando,Positive
+el Parque de Maria Luisa,media hora andando,Positive
+la Catedral,media hora andando,Positive
+gimnasio,Tiene,Positive
+,Volveré,Positive
+la estación del AVE,cercano,Positive
+sus instalaciones,"Todo está muy , pero que muy cuidado",StrongPositive
+su ubicación,"Todo está muy , pero que muy cuidado",StrongPositive
+vacaciones que jamás he pasado,Las mejores,StrongPositive
+servicio de limpieza,excelente,StrongPositive
+hotel,Muy buen,StrongPositive
+un personal,Tiene,Positive
+un personal,excelente,StrongPositive
+de posibilidades para pasar el tiempo,hay,Positive
+de posibilidades para pasar el tiempo,multitud,StrongPositive
+,tratan estupendamente bien,StrongPositive
+Un hotel,adecuado,Positive
+Un hotel,muy bonito,StrongPositive
+Sitio,de relax,Positive
+Sitio,bienestar,Positive
+la vista,son preciosas,StrongPositive
+las habitaciones,son preciosas,StrongPositive
+su situación,El único inconveniente,Negative
+las habitaciones,adecuado para viajar en pareja,Positive
+,tampoco excesivamente pequeñas,Positive
+,No muy grandes,Negative
+El buffet libre del almuerzo,muy completo,StrongPositive
+algunos alimentos,se tienen que pagar,Negative
+relación calidad precio,Buena,Positive
+La relación calidad precio,muy buena,StrongPositive
+comida,mb,StrongPositive
+servicio,mb,StrongPositive
+indicacion concreta ni acompanamiento de personal,Llegando a la madrugada no hubo,Negative
+semejante complejo,desconocido para los huespedes,Negative
+,Descanso,Positive
+entretenimiento,excelentes,StrongPositive
+comida,excelentes,StrongPositive
+atencion,excelentes,StrongPositive
+servicio,excelentes,StrongPositive
+instalaciones,excelentes,StrongPositive
+camas,muy confortables,StrongPositive
+parada de metro,en la puerta,Positive
+un par de jacuzzi en la azotea,donde relajarse después de un dia andando por Madrid,Positive
+teatro donde hacen el rey león,frente al,Positive
+,confortable,Positive
+,Centrico,Positive
+,ideal para visitar Madrid,StrongPositive
+,muy céntrico,StrongPositive
+la limpieza,bastante buena,Positive
+,Muy céntrico,StrongPositive
+el desayuno,un poco escaso,Negative
+el desayuno,muy caro,StrongNegative
+las habitaciones,pelin pequeñas,Negative
+La atención,magnífica,StrongPositive
+Las personas de recepción,muy amables,StrongPositive
+La limpieza,buena,Positive
+Vistas,sobre el canal,Positive
+,un poco riudoso,Negative
+Las camas,perfectas,StrongPositive
+desayunos,No sirve,Negative
+las almohadas,grandes,Positive
+las almohadas,cómodas,Positive
+las almohadas,limpias,Positive
+unas escaleras,estrechisimas,StrongNegative
+unas escaleras,No apto para personas con mobilidad reducida,Negative
+muchos sitios,hay cerca,Positive
+,Centrico,Positive
+,agradable,Positive
+,limpio,Positive
+El espacio en la habitación,adecuado,Positive
+Apartamentos,alta calidad,StrongPositive
+todo,muy limpio,StrongPositive
+el personal,bueno,Positive
+el personal,realmente atento,StrongPositive
+el precio,es un poco elevado para la zona en la que esta situada en la ciudad,Negative
+Apartamentos,de lujo,StrongPositive
+,son de calidad,Positive
+Baño,cómodo,Positive
+Baño,moderno,Positive
+Baño,con ducha,Positive
+los principales monumentos de Pisa,Bien ubicado,Positive
+la estación,Bien ubicado,Positive
+los principales monumentos de Pisa,entre,Positive
+la estación,entre,Positive
+Wifi social,gratuita,Positive
+Las habitaciones,cuidadas,Positive
+fruta natural,sin,Negative
+garaje,Tiene para sus huéspedes,Positive
+garaje,de pago,Negative
+Atención,personalizada,Positive
+bollería,normales,Negative
+Desayunos,normales,Negative
+cereales,normales,Negative
+habitaciones,Buenas,Positive
+wifi con acceso abierto a internet,no,Negative
+unas camas,un poco pequeñas,Negative
+calidad de servicio,excelente,StrongPositive
+restaurante,fantastico,StrongPositive
+desayunar,muy bien.cercano,StrongPositive
+capricho.zona,muy tranquila,StrongPositive
+la chica de la mañana,muy amable,StrongPositive
+recepcionistas,muy amable,StrongPositive
+personal,muy amable,StrongPositive
+la chica de la mañana,eficiente,Positive
+recepcionistas,eficiente,Positive
+personal,eficiente,Positive
+menaje,horrible,StrongNegative
+la vajilla,horrible,StrongNegative
+todo,horrible,StrongNegative
+menaje,sucio,Negative
+la vajilla,sucio,Negative
+todo,sucio,Negative
+menaje,grasiento,Negative
+la vajilla,grasiento,Negative
+todo,grasiento,Negative
+limpieza,un tanto deficiente.no,Negative
+gran cosa,No esperes,Negative
+relacion calidad precio.el,buena,Positive
+parques,hay,Positive
+gran cosa,no espereis,Negative
+gran cosa,lo justo para un fin de semana,Negative
+el recepcionista de tarde,incompetente,Negative
+el recepcionista de tarde,totalmente nefasto.no,StrongNegative
+la playa,cerca,Positive
+lo,recomiendo,Positive
+las habitaciones,vale la pena pagarlo,Positive
+las habitaciones,no son baratas,Negative
+zona infantil,he visto,Positive
+el hotel,Recomiendo,Positive
+hotel,Muy buen,StrongPositive
