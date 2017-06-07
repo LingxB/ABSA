@@ -1,7 +1,5 @@
 from os import walk
-
 import pandas as pd
-
 import src.utils.datamanager as dm
 
 path_en = 'Data\OpeNER\opinion_annotations_en\kaf\hotel/'
