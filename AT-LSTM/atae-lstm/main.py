@@ -79,7 +79,7 @@ if __name__ == '__main__':
     parser.add_argument('--batch', type=int, default=25)
     args, _ = parser.parse_known_args(argv)
 
-    start = time.time()
+    Tstart = time.time()
 
     random.seed(args.seed)
     data = DataManager(args.dataset)
@@ -92,16 +92,21 @@ if __name__ == '__main__':
             'acc_train':[], 'acc_dev':[], 'acc_test':[], 'loss_l2':[]}
 
     for e in range(args.epoch):
+        start = time.time()
+        print 'Epoch %i'%(e+1)
         random.shuffle(train_data)
         now = {}
         now['loss'], now['loss_l2'] = train(model, train_data, optimizer, e, args.batch, batch_n)
         now['loss_train'], now['acc_train'] = test(model, train_data, args.grained)
         now['loss_dev'], now['acc_dev'] = test(model, dev_data, args.grained)
         now['loss_test'], now['acc_test'] = test(model, test_data, args.grained)
+        end = time.time()
+        print(now)
+        print 'Time:\t%is/epoch' % (end - start)
         for key, value in now.items(): 
             details[key].append(value)
-        with open('result/%s.txt' % args.name, 'w') as f:
+        with open('T:\ABSA\AT-LSTM/atae-lstm/result/%s.txt' % args.name, 'w') as f:
             f.writelines(json.dumps(details))
 
-    end = time.time()
-    print 'TOTAL TIME: %is'%(end-start)
+    Tend = time.time()
+    print 'TOTAL TIME: %is'%(Tend-Tstart)
