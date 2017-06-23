@@ -78,6 +78,7 @@ if __name__ == '__main__':
     parser.add_argument('--epoch', type=int, default=25)
     parser.add_argument('--batch', type=int, default=25)
     args, _ = parser.parse_known_args(argv)
+    print(args)
 
     Tstart = time.time()
 
