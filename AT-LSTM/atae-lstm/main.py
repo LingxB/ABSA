@@ -5,6 +5,7 @@ import time
 import sys
 import json
 import random
+import time
 sys.path.append('AT-LSTM/atae-lstm')
 from Optimizer import OptimizerList
 from Evaluator import Evaluators
@@ -78,6 +79,8 @@ if __name__ == '__main__':
     parser.add_argument('--batch', type=int, default=25)
     args, _ = parser.parse_known_args(argv)
 
+    start = time.time()
+
     random.seed(args.seed)
     data = DataManager(args.dataset)
     wordlist = data.gen_word()
@@ -99,3 +102,6 @@ if __name__ == '__main__':
             details[key].append(value)
         with open('result/%s.txt' % args.name, 'w') as f:
             f.writelines(json.dumps(details))
+
+    end = time.time()
+    print 'TOTAL TIME: %is'%(end-start)
