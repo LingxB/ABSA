@@ -52,3 +52,46 @@ df_es_train.to_csv(out_path+'OpeNER_hotel_es_train.csv', index=False, encoding='
 df_es_test.to_csv(out_path+'OpeNER_hotel_es_test.csv', index=False, encoding='utf-8')
 
 
+#########################
+# atae-LSTM styple
+#########################
+df_en_train = pd.read_csv('Data/OpeNER/PL/OpeNER_hotel_en_train.csv')
+df_en_test = pd.read_csv('Data/OpeNER/PL/OpeNER_hotel_en_test.csv')
+df_es_train = pd.read_csv('Data/OpeNER/PL/OpeNER_hotel_es_train.csv')
+df_es_test = pd.read_csv('Data/OpeNER/PL/OpeNER_hotel_es_test.csv')
+
+
+def atae_style(df, path):
+    _df = df.copy()
+    _df['CLASS'] = ~_df.POLARITY.str.contains('Negative')
+    with open(path,'w',encoding='utf-8') as f:
+        for idx,row in _df.iterrows():
+                exp = row.OEXP
+                target = row.TARGET
+                polar = 1 if row.CLASS else -1
+                try:
+                    f.write(exp+'\n'+str(target)+'\n'+str(polar)+'\n')
+                except TypeError:
+                    print(exp,target,polar)
+
+atae_style(df_en_train, 'Data/OpeNER/PL/OpeNER_hotel_en_train.cor')
+atae_style(df_en_test, 'Data/OpeNER/PL/OpeNER_hotel_en_test.cor')
+atae_style(df_es_train, 'Data/OpeNER/PL/OpeNER_hotel_es_train.cor')
+atae_style(df_es_test, 'Data/OpeNER/PL/OpeNER_hotel_es_test.cor')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
