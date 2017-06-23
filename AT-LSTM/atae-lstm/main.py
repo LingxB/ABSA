@@ -5,6 +5,7 @@ import time
 import sys
 import json
 import random
+sys.path.append('AT-LSTM/atae-lstm')
 from Optimizer import OptimizerList
 from Evaluator import Evaluators
 from DataManager import DataManager
