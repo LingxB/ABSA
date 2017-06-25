@@ -64,3 +64,20 @@ def iter_data(file, colnames=['TARGET', 'OEXP', 'POLARITY']):
         yield df
     else:
         pass
+
+def atae_converter(f_path):
+    with open(f_path,'r',encoding='utf-8') as f:
+        temp = 0
+        temp_lst = ['SENT','ASP','CLS']
+        d = {t:[] for t in temp_lst}
+        for line in f:
+            if temp == 0:
+                d[temp_lst[0]].append(line.strip())
+                temp = 1
+            elif temp ==1:
+                d[temp_lst[1]].append(line.strip())
+                temp = 2
+            elif temp ==2:
+                d[temp_lst[2]].append(int(line.strip()))
+                temp = 0
+    return pd.DataFrame(data=d)
